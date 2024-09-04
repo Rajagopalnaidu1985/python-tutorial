@@ -175,3 +175,5 @@ def fact(n):
     return result
 
 print(fact(5))
+
+fact(n)
